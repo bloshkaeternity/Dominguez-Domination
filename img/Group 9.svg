@@ -1,0 +1,19 @@
+<svg width="433" height="408" viewBox="0 0 433 408" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<rect width="433" height="408" fill="url(#pattern0)"/>
+<path d="M123.729 117H45V199H167V146.178H123.729V117Z" fill="#3595F6" fill-opacity="0.75"/>
+<path d="M295.5 309L295.5 376L340 376L340 393L405 393L405 327.5L388 327.5L388 268.5L314.5 268.5L314.5 252.5L266 252.5L266 309L295.5 309Z" fill="#3595F6" fill-opacity="0.75"/>
+<path d="M217 263H187V274H167V310H139.5V376H174L173.898 395H217V374V263Z" fill="#3595F6" fill-opacity="0.75"/>
+<path d="M217 395H247H259.5V376.5H295.5V309H266V274H246V263H217V284V395Z" fill="#3595F6" fill-opacity="0.75"/>
+<path d="M266 201L266 252.5L314.5 252.5L314.5 268.5L388 268.5L388 205L366 205L366 201L310.5 201L266 201Z" fill="#3595F6" fill-opacity="0.75"/>
+<path d="M266 149V201H366V205H388V141.5H314.5V149H266Z" fill="#3595F6" fill-opacity="0.75"/>
+<path d="M314.5 141.5H388V81.5H405V16H340V32.5L246 32.5V133H266V149H314.5V141.5Z" fill="#3595F6" fill-opacity="0.75"/>
+<path d="M121 278H45V328H28V393H93V376H139.5V310H167V253.5H121V278Z" fill="#3595F6" fill-opacity="0.75"/>
+<path d="M121.44 278H45V199H167V253.5H121.44V278Z" fill="#3595F6" fill-opacity="0.75"/>
+<path d="M123.848 117H45V81H28V16H93V33H183V88V96V146H123.848V117Z" fill="#3595F6" fill-opacity="0.75"/>
+<defs>
+<pattern id="pattern0" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image0_76_11" transform="scale(0.00230947 0.00245098)"/>
+</pattern>
+<image id="image0_76_11" width="433" height="408" xlink:href=""/>
+</defs>
+</svg>
